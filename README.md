@@ -68,11 +68,6 @@ Through this project, I learned how to:
 * Think in terms of UI structure
 * Improve problem-solving and debugging skills
 
----
-
-## Live / GitHub Link
-
-(Add your GitHub repo link here)
 
 ---
 
